@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Saif
 
-<!--
-**saifulislam4455/saifulislam4455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student  
+💻 React Developer  
+🤖 AI/ML Learner  
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML | CSS | JavaScript | React | Python | C++
+
+## 🌱 Currently Learning
+
+- React
+- AI/ML
+
+## 🚀 Projects
+
+Coming soon...
+
+## 📫 Connect With Me
+
+LinkedIn: www.linkedin.com/in/
+muhammad-saifulislam-8a4702387
